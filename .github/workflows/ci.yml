@@ -27,11 +27,4 @@ jobs:
 
 
 
-              - name: Etapa de Deploy (Homologação)
-        if: success()
-        run: |
-          echo "Publicando artefato em staging..."
-          mkdir -p staging
-          zip -r staging/codehealth.zip main.py
-          echo "Deploy realizado com sucesso!"
-
+              
