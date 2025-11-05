@@ -1,4 +1,4 @@
-# codehealth-ci-cd-Giovanna-Harumi-M.-Taketani
+# codehealth-ci-cd-Giovanna-Harumi, Rodrigo
 
 
 #  CodeHealth – Pipeline de CI/CD
