@@ -1,0 +1,25 @@
+
+
+name: CodeHealth CI
+
+on:
+  push:
+    branches:
+      - develop
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v3
+
+      - name: Etapa de Build
+        run: echo "Compilando o projeto (simulação)..."
+
+      - name: Etapa de Teste
+        run: |
+          echo "Executando testes (simulação)..."
+          python main.py
+          echo "Build successful"
