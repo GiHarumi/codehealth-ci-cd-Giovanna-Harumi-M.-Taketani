@@ -1,7 +1,7 @@
 # codehealth-ci-cd-Giovanna-Harumi-M.-Taketani
 
 
-# 🩺 CodeHealth – Pipeline de CI/CD
+#  CodeHealth – Pipeline de CI/CD
 
 ## 📘 Descrição
 Projeto acadêmico que simula um pipeline de Integração e Entrega Contínua (CI/CD) utilizando GitHub Actions.  
@@ -38,10 +38,7 @@ O pipeline é executado automaticamente a cada `push` na branch `develop`.
 
 ---
 
-## 📸 Evidência
-![Workflow Execution Screenshot](link-da-screenshot-aqui)
 
----
 
 ## 💭 Reflexão
 
@@ -55,5 +52,3 @@ Podem surgir conflitos de código, perda de versões, falhas em produção e dif
 Automatizar reduz erros humanos, garante testes consistentes e impede que código com falhas seja implantado.
 
 ---
-
-✍️ *Desenvolvido por Giovanna HMT – Faculdade Mackenzie*
